@@ -1,3 +1,3 @@
-# My-favorite-movies-
-exercise project 
+# movie list
+HTML practice project 
 
